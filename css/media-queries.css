@@ -1,0 +1,16 @@
+@media screen and (max-width:768px){
+    .lessons .container{
+        width: 100%;
+    }
+
+    .steps .container{
+        width: 100%;
+    }
+
+    .why-us .container{
+        width: 100%;
+    }
+}
+
+
+
